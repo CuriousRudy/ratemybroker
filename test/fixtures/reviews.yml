@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  broker_id: 1
+  content: MyText
+  communication: 1
+  team_player: 1
+  skill: 1
+
+two:
+  broker_id: 1
+  content: MyText
+  communication: 1
+  team_player: 1
+  skill: 1
